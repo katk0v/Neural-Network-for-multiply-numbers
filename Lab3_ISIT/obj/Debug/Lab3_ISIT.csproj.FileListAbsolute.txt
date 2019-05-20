@@ -1,0 +1,54 @@
+c:\users\елизавета\documents\visual studio 2015\Projects\Lab3_ISIT\Lab3_ISIT\bin\Debug\Lab3_ISIT.exe.config
+c:\users\елизавета\documents\visual studio 2015\Projects\Lab3_ISIT\Lab3_ISIT\bin\Debug\Lab3_ISIT.exe
+c:\users\елизавета\documents\visual studio 2015\Projects\Lab3_ISIT\Lab3_ISIT\bin\Debug\Lab3_ISIT.pdb
+c:\users\елизавета\documents\visual studio 2015\Projects\Lab3_ISIT\Lab3_ISIT\obj\Debug\Lab3_ISIT.csprojResolveAssemblyReference.cache
+c:\users\елизавета\documents\visual studio 2015\Projects\Lab3_ISIT\Lab3_ISIT\obj\Debug\Lab3_ISIT.exe
+c:\users\елизавета\documents\visual studio 2015\Projects\Lab3_ISIT\Lab3_ISIT\obj\Debug\Lab3_ISIT.pdb
+C:\Users\Daniil\Downloads\Lab3_ISIT\Lab3_ISIT\Lab3_ISIT\bin\Debug\Lab3_ISIT.exe.config
+C:\Users\Daniil\Downloads\Lab3_ISIT\Lab3_ISIT\Lab3_ISIT\bin\Debug\Lab3_ISIT.exe
+C:\Users\Daniil\Downloads\Lab3_ISIT\Lab3_ISIT\Lab3_ISIT\bin\Debug\Lab3_ISIT.pdb
+C:\Users\Daniil\Downloads\Lab3_ISIT\Lab3_ISIT\Lab3_ISIT\obj\Debug\Lab3_ISIT.csprojResolveAssemblyReference.cache
+C:\Users\Daniil\Downloads\Lab3_ISIT\Lab3_ISIT\Lab3_ISIT\obj\Debug\Lab3_ISIT.exe
+C:\Users\Daniil\Downloads\Lab3_ISIT\Lab3_ISIT\Lab3_ISIT\obj\Debug\Lab3_ISIT.pdb
+C:\Users\Владимир Катков\OneDrive\Networks and communications\Интеллектуальные системы\isit\Lab3_ISIT\Lab3_ISIT\Lab3_ISIT\bin\Debug\Lab3_ISIT.exe.config
+C:\Users\Владимир Катков\OneDrive\Networks and communications\Интеллектуальные системы\isit\Lab3_ISIT\Lab3_ISIT\Lab3_ISIT\bin\Debug\Lab3_ISIT.exe
+C:\Users\Владимир Катков\OneDrive\Networks and communications\Интеллектуальные системы\isit\Lab3_ISIT\Lab3_ISIT\Lab3_ISIT\bin\Debug\Lab3_ISIT.pdb
+C:\Users\Владимир Катков\OneDrive\Networks and communications\Интеллектуальные системы\isit\Lab3_ISIT\Lab3_ISIT\Lab3_ISIT\obj\Debug\Lab3_ISIT.csprojAssemblyReference.cache
+C:\Users\Владимир Катков\OneDrive\Networks and communications\Интеллектуальные системы\isit\Lab3_ISIT\Lab3_ISIT\Lab3_ISIT\obj\Debug\Lab3_ISIT.csproj.CoreCompileInputs.cache
+C:\Users\Владимир Катков\OneDrive\Networks and communications\Интеллектуальные системы\isit\Lab3_ISIT\Lab3_ISIT\Lab3_ISIT\obj\Debug\Lab3_ISIT.exe
+C:\Users\Владимир Катков\OneDrive\Networks and communications\Интеллектуальные системы\isit\Lab3_ISIT\Lab3_ISIT\Lab3_ISIT\obj\Debug\Lab3_ISIT.pdb
+C:\Users\Владимир Катков\OneDrive\Networks and communications\Интеллектуальные системы\Lab3_ISIT\Lab3_ISIT\Lab3_ISIT\bin\Debug\Lab3_ISIT.exe.config
+C:\Users\Владимир Катков\OneDrive\Networks and communications\Интеллектуальные системы\Lab3_ISIT\Lab3_ISIT\Lab3_ISIT\bin\Debug\Lab3_ISIT.exe
+C:\Users\Владимир Катков\OneDrive\Networks and communications\Интеллектуальные системы\Lab3_ISIT\Lab3_ISIT\Lab3_ISIT\bin\Debug\Lab3_ISIT.pdb
+C:\Users\Владимир Катков\OneDrive\Networks and communications\Интеллектуальные системы\Lab3_ISIT\Lab3_ISIT\Lab3_ISIT\obj\Debug\Lab3_ISIT.csprojAssemblyReference.cache
+C:\Users\Владимир Катков\OneDrive\Networks and communications\Интеллектуальные системы\Lab3_ISIT\Lab3_ISIT\Lab3_ISIT\obj\Debug\Lab3_ISIT.csproj.CoreCompileInputs.cache
+C:\Users\Владимир Катков\OneDrive\Networks and communications\Интеллектуальные системы\Lab3_ISIT\Lab3_ISIT\Lab3_ISIT\obj\Debug\Lab3_ISIT.exe
+C:\Users\Владимир Катков\OneDrive\Networks and communications\Интеллектуальные системы\Lab3_ISIT\Lab3_ISIT\Lab3_ISIT\obj\Debug\Lab3_ISIT.pdb
+C:\Users\Владимир Катков\OneDrive\Networks and communications\Интеллектуальные системы\Лабы\Lab3_ISIT\Lab3_ISIT\Lab3_ISIT\bin\Debug\Lab3_ISIT.exe.config
+C:\Users\Владимир Катков\OneDrive\Networks and communications\Интеллектуальные системы\Лабы\Lab3_ISIT\Lab3_ISIT\Lab3_ISIT\bin\Debug\Lab3_ISIT.exe
+C:\Users\Владимир Катков\OneDrive\Networks and communications\Интеллектуальные системы\Лабы\Lab3_ISIT\Lab3_ISIT\Lab3_ISIT\bin\Debug\Lab3_ISIT.pdb
+C:\Users\Владимир Катков\OneDrive\Networks and communications\Интеллектуальные системы\Лабы\Lab3_ISIT\Lab3_ISIT\Lab3_ISIT\obj\Debug\Lab3_ISIT.csproj.CoreCompileInputs.cache
+C:\Users\Владимир Катков\OneDrive\Networks and communications\Интеллектуальные системы\Лабы\Lab3_ISIT\Lab3_ISIT\Lab3_ISIT\obj\Debug\Lab3_ISIT.exe
+C:\Users\Владимир Катков\OneDrive\Networks and communications\Интеллектуальные системы\Лабы\Lab3_ISIT\Lab3_ISIT\Lab3_ISIT\obj\Debug\Lab3_ISIT.pdb
+C:\Users\Владимир Катков\OneDrive\Networks and communications\Интеллектуальные системы\Лабы\Lab3_ISIT\Lab3_ISIT\Lab3_ISIT\obj\Debug\Lab3_ISIT.csprojAssemblyReference.cache
+C:\Users\Владимир Катков\OneDrive\Университет\1 семестр\Интеллектуальные системы\Лабы\3\Lab3_ISIT\Lab3_ISIT\Lab3_ISIT\bin\Debug\Lab3_ISIT.exe.config
+C:\Users\Владимир Катков\OneDrive\Университет\1 семестр\Интеллектуальные системы\Лабы\3\Lab3_ISIT\Lab3_ISIT\Lab3_ISIT\bin\Debug\Lab3_ISIT.exe
+C:\Users\Владимир Катков\OneDrive\Университет\1 семестр\Интеллектуальные системы\Лабы\3\Lab3_ISIT\Lab3_ISIT\Lab3_ISIT\bin\Debug\Lab3_ISIT.pdb
+C:\Users\Владимир Катков\OneDrive\Университет\1 семестр\Интеллектуальные системы\Лабы\3\Lab3_ISIT\Lab3_ISIT\Lab3_ISIT\obj\Debug\Lab3_ISIT.csprojAssemblyReference.cache
+C:\Users\Владимир Катков\OneDrive\Университет\1 семестр\Интеллектуальные системы\Лабы\3\Lab3_ISIT\Lab3_ISIT\Lab3_ISIT\obj\Debug\Lab3_ISIT.csproj.CoreCompileInputs.cache
+C:\Users\Владимир Катков\OneDrive\Университет\1 семестр\Интеллектуальные системы\Лабы\3\Lab3_ISIT\Lab3_ISIT\Lab3_ISIT\obj\Debug\Lab3_ISIT.exe
+C:\Users\Владимир Катков\OneDrive\Университет\1 семестр\Интеллектуальные системы\Лабы\3\Lab3_ISIT\Lab3_ISIT\Lab3_ISIT\obj\Debug\Lab3_ISIT.pdb
+C:\Users\evrei\source\repos\Lab3_ISIT\Lab3_ISIT\bin\Debug\Lab3_ISIT.exe.config
+C:\Users\evrei\source\repos\Lab3_ISIT\Lab3_ISIT\bin\Debug\Lab3_ISIT.exe
+C:\Users\evrei\source\repos\Lab3_ISIT\Lab3_ISIT\bin\Debug\Lab3_ISIT.pdb
+C:\Users\evrei\source\repos\Lab3_ISIT\Lab3_ISIT\obj\Debug\Lab3_ISIT.csprojAssemblyReference.cache
+C:\Users\evrei\source\repos\Lab3_ISIT\Lab3_ISIT\obj\Debug\Lab3_ISIT.csproj.CoreCompileInputs.cache
+C:\Users\evrei\source\repos\Lab3_ISIT\Lab3_ISIT\obj\Debug\Lab3_ISIT.exe
+C:\Users\evrei\source\repos\Lab3_ISIT\Lab3_ISIT\obj\Debug\Lab3_ISIT.pdb
+C:\Users\evrei\source\repos\Lab3\Lab3_ISIT\bin\Debug\Lab3_ISIT.exe.config
+C:\Users\evrei\source\repos\Lab3\Lab3_ISIT\bin\Debug\Lab3_ISIT.exe
+C:\Users\evrei\source\repos\Lab3\Lab3_ISIT\bin\Debug\Lab3_ISIT.pdb
+C:\Users\evrei\source\repos\Lab3\Lab3_ISIT\obj\Debug\Lab3_ISIT.csprojAssemblyReference.cache
+C:\Users\evrei\source\repos\Lab3\Lab3_ISIT\obj\Debug\Lab3_ISIT.csproj.CoreCompileInputs.cache
+C:\Users\evrei\source\repos\Lab3\Lab3_ISIT\obj\Debug\Lab3_ISIT.exe
+C:\Users\evrei\source\repos\Lab3\Lab3_ISIT\obj\Debug\Lab3_ISIT.pdb
